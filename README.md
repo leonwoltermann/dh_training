@@ -2,3 +2,5 @@
 Training repository for the class
 
 We are now testing github.
+
+hello hello

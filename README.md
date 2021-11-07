@@ -7,6 +7,3 @@ hello hello
 
 is this still working?
 
-dvdfgdgdfdfg
-dfdfdfd
-fsdfdsfd
